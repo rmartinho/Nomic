@@ -92,3 +92,5 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 **213.** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner. 
+
+**303.** At any point new players can join the game by making public their desire to join. These rules apply to all players from the moment they join the game. When a player joins the game, their first turn takes place in the turn order established by the rules that are in effect after completion of the circuit of turns that was current at the time of joining.
